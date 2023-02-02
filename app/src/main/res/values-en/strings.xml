@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Android Course</string>
+    <string name="soy_un_texto">I\'m a Text View!</string>
+    <string name="cualquier_texto">Any text</string>
+    <string name="boton">My Button</string>
+</resources>
