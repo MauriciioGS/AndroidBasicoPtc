@@ -4,4 +4,5 @@
     <string name="soy_un_texto">I\'m a Text View!</string>
     <string name="cualquier_texto">Any text</string>
     <string name="boton">My Button</string>
+    <string name="messageName">Your name is: %1$s</string>
 </resources>

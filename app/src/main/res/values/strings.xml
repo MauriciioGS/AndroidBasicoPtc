@@ -3,4 +3,5 @@
     <string name="soy_un_texto">Soy un texto!</string>
     <string name="cualquier_texto">Cualquier texto</string>
     <string name="boton">Botón</string>
+    <string name="messageName">Tu nombre es: %1$s</string>
 </resources>
